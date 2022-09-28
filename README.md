@@ -29,6 +29,10 @@ Library used to develop applications for Android/iOS.
 
 Provides a way for the app to transit between screens and manage navigation history.
 
+## Phosphor React Native
+
+Lovely icons
+
 ## Expo
 
 Framework for React Native projects to build and scaling applications.
