@@ -25,6 +25,10 @@ Object-relational mapping.
 
 Library used to develop applications for Android/iOS.
 
+## React Navigation
+
+Provides a way for the app to transit between screens and manage navigation history.
+
 ## Expo
 
 Framework for React Native projects to build and scaling applications.
@@ -38,3 +42,7 @@ Library used to build user interfaces.
 ## Tailwind CSS
 
 A utility-first CSS framework to build user interfaces.
+
+## Radix-UI Dialog
+
+Unstyled, accessible components to build design systems and web apps in React.
