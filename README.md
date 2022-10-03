@@ -1,6 +1,5 @@
 <img width="286" alt="Logo (4)" src="https://user-images.githubusercontent.com/68649783/190530994-347c92d3-5e05-4dc8-8fbc-6d7c0732ebb1.png">
 
-
 # Backend
 
 ## Node.js
@@ -47,6 +46,6 @@ Library used to build user interfaces.
 
 A utility-first CSS framework to build user interfaces.
 
-## Radix-UI Dialog
+## Radix-UI
 
 Unstyled, accessible components to build design systems and web apps in React.
