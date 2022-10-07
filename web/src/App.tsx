@@ -50,7 +50,7 @@ function App() {
       <Dialog.Root>
         <CreateAdBanner />
 
-        <CreateAdModal gamesTitle={games.map((game) => game.title)} />
+        <CreateAdModal gamesTitles={games.map((game) => game.title)} />
       </Dialog.Root>
     </div>
   );

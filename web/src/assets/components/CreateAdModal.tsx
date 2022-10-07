@@ -5,7 +5,7 @@ import { Input } from "./Form/Input";
 import { GameSelector } from "./GameSelector";
 
 interface GameAdModalProps {
-  gamesTitle: string[];
+  gamesTitles: string[];
 }
 
 export function CreateAdModal(props: GameAdModalProps) {
@@ -21,7 +21,7 @@ export function CreateAdModal(props: GameAdModalProps) {
             <label className="font-semibold" htmlFor="game">
               Qual o game?
             </label>
-            <GameSelector gamesTitle={props.gamesTitle}></GameSelector>
+            <GameSelector gamesTitles={props.gamesTitles}></GameSelector>
           </div>
 
           <div className="flex flex-col gap-2">
@@ -42,7 +42,7 @@ export function CreateAdModal(props: GameAdModalProps) {
                 placeholder="Tudo bem ser ZERO"
               />
             </div>
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-2 ">
               <label htmlFor="discord">Qual seu discord?</label>
               <Input id="discord" type="text" placeholder="Usuário#0000" />
             </div>
