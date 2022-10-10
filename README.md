@@ -1,7 +1,7 @@
 <img width="286" alt="Logo (4)" src="https://user-images.githubusercontent.com/68649783/190530994-347c92d3-5e05-4dc8-8fbc-6d7c0732ebb1.png">
 
 
-With this end-to-end project, I have been able to create and consume APIs, manage the components with React JS/React Native.
+With this project, I learned how to create and consume APIs, and manage the components with React JS/React Native.
 
 # Backend features
 
