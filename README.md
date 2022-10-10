@@ -1,52 +1,55 @@
 <img width="286" alt="Logo (4)" src="https://user-images.githubusercontent.com/68649783/190530994-347c92d3-5e05-4dc8-8fbc-6d7c0732ebb1.png">
 
-# Backend
 
-## Node.js
+With this end-to-end project, I have been able to create and consume APIs, manage the components with React JS/React Native.
+
+# Backend features
+
+### Node.js
 
 Node.js build network applications based on Google Chrome's V8 Virtual Machine.
 
-## Express
+### Express
 
 Provides features for web and mobile applications.
 
-## SQLite
+### SQLite
 
 Embedded SQL database engine.
 
-## Prisma
+### Prisma
 
 Object-relational mapping.
 
-# Mobile
+# Mobile features
 
-## React Native
+### React Native
 
 Library used to develop applications for Android/iOS.
 
-## React Navigation
+### React Navigation
 
 Provides a way for the app to transit between screens and manage navigation history.
 
-## Phosphor React Native
+### Phosphor React Native
 
-Lovely icons
+Lovely icons provider
 
-## Expo
+### Expo
 
 Framework for React Native projects to build and scaling applications.
 
-# Web
+# Web features
 
-## React
+### React JS
 
 Library used to build user interfaces.
 
-## Tailwind CSS
+### Tailwind CSS
 
 A utility-first CSS framework to build user interfaces.
 
-## Radix-UI
+### Radix-UI
 
 Unstyled, accessible components to build design systems and web apps in React.
 
