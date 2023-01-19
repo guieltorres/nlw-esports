@@ -1,0 +1,8 @@
+server/node_modules/
+server/package-lock.json
+
+mobile/yarn.lock
+mobile/package-lock.json
+
+web/package-lock.json
+web/yarn.lock
